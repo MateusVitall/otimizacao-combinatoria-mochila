@@ -6,7 +6,7 @@
 
 ### Aluno
 
-- Nome: Seu Nome
+- Nome: Mateus Vital
 - Disciplina: Tópicos Especiais em Computação
 - Professor: João Paulo
 
