@@ -9,7 +9,7 @@
 - Nome: Mateus Vital
 - Disciplina: Tópicos Especiais em Computação
 - Professor: João Paulo
-Link do Colab: https://colab.research.google.com/drive/1ZGsE9nY6kkdm-p9yiOwEQmx8rxtKwR4B?usp=sharing
+- Link do Colab: https://colab.research.google.com/drive/1ZGsE9nY6kkdm-p9yiOwEQmx8rxtKwR4B?usp=sharing
 ---
 
 ## Introdução
